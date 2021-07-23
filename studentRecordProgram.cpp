@@ -1,9 +1,6 @@
 //---------------------------------------------------------------------
-//
 // Name: Ryan Coplien and Ryan Holtz - 50/50 work
-//
 // Course:  CS 1430, Section 4 and Section 3,  Fall 2018
-//
 // Purpose: Program to maintain the student records for two teachers.
 //
 // Input: Your program will read and process commands from the 
@@ -11,12 +8,8 @@
 // followed by an action command and possibly followed by parameters, 
 // with one or more spaces between each item.
 //	
-//
 // Output: Feedback for each command entered, List of students when 
 // printed, 
-// 
-//  
-//
 //---------------------------------------------------------------------
 
 #include <iostream>
