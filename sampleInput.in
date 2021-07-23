@@ -1,0 +1,57 @@
+T1 P
+T1 R Hedi
+T1 P
+T1 A Hedi G
+T1 UQ Hedi 65
+T1 UT Hedi 73
+T1 UH Hedi 79
+T1 UF Hedi 70
+T1 A Joe V
+T1 UQ Joe 75
+T1 UT Joe 83
+T1 UH Joe 99
+T1 UF Joe 80
+T1 A Fred M
+T1 UQ Fred 93
+T1 UT Fred 85
+T1 UH Fred 91
+T1 UF Fred 78
+T1 P
+T1 R Fred
+T1 P
+T1 A Fred M
+T1 UQ Fred 93
+T1 UT Fred 85
+T1 UH Fred 91
+T1 UF Fred 78
+T1 P
+T1 UH Fred 98
+T1 P
+T1 A Susan M
+T1 UQ Susan 74
+T1 UT Susan 85
+T1 UH Susan 81
+T1 UF Susan 75
+T1 A Mia M
+T1 UQ Mia 62
+T1 UT Mia 73
+T1 UH Mia 69
+T1 UF Mia 65
+T1 A Mark M
+T1 UQ Mark 72
+T1 UT Mark 73
+T1 UH Mark 89
+T1 UF Mark 76
+T1 P
+T2 A Sam M
+T2 UQ Sam 64
+T2 UT Sam 75
+T2 UH Sam 69
+T2 UF Sam 75
+T2 A Mary G
+T2 UQ Mary 82
+T2 UT Mary 83
+T2 UH Mary 89
+T2 UF Mary 75
+T2 A Sam M
+T2 P
